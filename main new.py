@@ -3,4 +3,6 @@ class Domanda:
     opzione_giusta: str
     opzioni: [str]
     def __init__(self):
-    pass
+        pass
+    def __str__(self):
+        pass
